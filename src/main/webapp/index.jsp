@@ -15,11 +15,11 @@
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
       <h1 class="display-4">Wassup gang! Up the Chels</h1>
-      <p class="lead">This is a very simple website template that uses tailwind CSS framework!</p>
-      <p class="lead">Where all the huzz at?</p>
+      <p class="lead">This is a straightforward website template that uses the tailwind CSS framework!</p>
+      <p class="lead">Where all the buzz at?</p>
       <hr class="my-4">
-      <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
-      <p>Test update using the Github SCM Webhook!</p>
+      <p>You can visit the website of the School of Science, Engineering, and Technology (SSET) of RMIT Vietnam by clicking on the button below!</p>
+      <p>Test update using the GitHub SCM Webhook!</p>
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
     </div>
