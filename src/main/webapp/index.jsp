@@ -20,7 +20,7 @@
       <hr class="my-4">
       <p>You can visit the website of the School of Science, Engineering, and Technology (SSET) of RMIT Vietnam by clicking on the button below!</p>
       <p>Test update using the GitHub SCM Webhook!</p>
-<p> This should be redployed in a new Docker container </p>
+      <p> This should be redeployed in a new Docker container </p>
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
     </div>
